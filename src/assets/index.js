@@ -54,8 +54,10 @@ import fms from './projects/fms.png';
 import bds from './projects/bds.png';
 import scadaya from './projects/scadaya.png';
 import phenikaa from './projects/phenikaa.png';
+import toddoo from './projects/toddoo.png';
 
 export {
+  toddoo,
   fms,
   bds,
   scadaya,

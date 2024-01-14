@@ -21,6 +21,7 @@ import {
   komikult,
   leaderboard,
   jtracker,
+  toddoo,
   fms,
   bds,
   scadaya,
@@ -150,9 +151,32 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
+    name: 'TODDOO',
+    description:
+      'Application event manager.',
+    tags: [
+      {
+        name: 'react',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'restapi',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'scss',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: toddoo,
+    // repo: 'https://github.com/shaqdeff/Leaderboard',
+    demo: 'https://toddoo.com',
+  },
+  {
+    id: 'project-2',
     name: 'FMS',
     description:
-      'Application who track the technician and jobs order.',
+      'Application who track the technician and job orders.',
     tags: [
       {
         name: 'react',
@@ -172,7 +196,7 @@ const projects = [
     demo: 'https://fms.jadintracker.id',
   },
   {
-    id: 'project-2',
+    id: 'project-3',
     name: 'BDSamferdsel',
     description: 'E-Commerce for road sign and the construction items',
     tags: [
@@ -194,8 +218,8 @@ const projects = [
     demo: 'https://www.bdsamferdsel.no/',
   },
   {
-    id: 'project-3',
-    name: 'Profile Company',
+    id: 'project-4',
+    name: 'Scadaya Company Profile',
     description: `A Website to promote the subsidiary from main company`,
     tags: [
       {
@@ -216,8 +240,8 @@ const projects = [
     demo: 'https://scadayalancarabadi.com/',
   },
   {
-    id: 'project-4',
-    name: 'Profile Company',
+    id: 'project-5',
+    name: 'Phenikaa Company Profile',
     description:
       'for phenikaa profile company in vietname',
     tags: [
