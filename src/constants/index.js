@@ -20,7 +20,7 @@ import {
   graphql,
   komikult,
   leaderboard,
-  jtraker,
+  jtracker,
   fms,
   bds,
   scadaya,
@@ -150,28 +150,6 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'Jtracker',
-    description: 'Application who track the technician and jobs order',
-    tags: [
-      {
-        name: 'react',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'mongodb',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'tailwind',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: komikult,
-    // repo: 'https://github.com/shaqdeff/KomiKult',
-    demo: 'https://jtracker.id/',
-  },
-  {
-    id: 'project-2',
     name: 'FMS',
     description:
       'Application who track the technician and jobs order.',
@@ -194,7 +172,7 @@ const projects = [
     demo: 'https://fms.jadintracker.id',
   },
   {
-    id: 'project-3',
+    id: 'project-2',
     name: 'BDSamferdsel',
     description: 'E-Commerce for road sign and the construction items',
     tags: [
@@ -216,7 +194,7 @@ const projects = [
     demo: 'https://www.bdsamferdsel.no/',
   },
   {
-    id: 'project-4',
+    id: 'project-3',
     name: 'Profile Company',
     description: `A Website to promote the subsidiary from main company`,
     tags: [
@@ -238,7 +216,7 @@ const projects = [
     demo: 'https://scadayalancarabadi.com/',
   },
   {
-    id: 'project-5',
+    id: 'project-4',
     name: 'Profile Company',
     description:
       'for phenikaa profile company in vietname',

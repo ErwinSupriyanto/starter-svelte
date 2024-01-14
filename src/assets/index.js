@@ -50,8 +50,17 @@ import math from './projects/math-magicians.png';
 import movie from './projects/movie-metro.png';
 import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
+import fms from './projects/fms.png';
+import bds from './projects/bds.png';
+import scadaya from './projects/scadaya.png';
+import phenikaa from './projects/phenikaa.png';
 
 export {
+  fms,
+  bds,
+  scadaya,
+  phenikaa,
+  database,
   bwmap,
   nairobi,
   whiteabstract,
