@@ -139,8 +139,8 @@ const experiences = [
     date: '2016 - 2019',
   },
   {
-    title: 'Pamulang University',
-    company_name: 'Diversity Cyber Council',
+    title: 'Head of Network Engineer',
+    company_name: 'Pamulang University',
     icon: dcc,
     iconBg: '#333333',
     date: '2013 - 2016',
