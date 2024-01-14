@@ -122,14 +122,14 @@ const experiences = [
     company_name: 'Jadin Pratama',
     icon: coverhunt,
     iconBg: '#333333',
-    date: '2021 - Present',
+    date: '2022 - Present',
   },
   {
     title: 'Web Developer',
     company_name: 'Baezeni Digital Service',
     icon: microverse,
     iconBg: '#333333',
-    date: '2019 - 2021',
+    date: '2019 - 2022',
   },
   {
     title: 'Senior Programmer',
